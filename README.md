@@ -2,7 +2,7 @@
 
 ItiBrowser is a matcher to be used in the [Itinerary][itinerary].
 
-Match if the request is made by a Mobile Device. Powered by [user_agent] made by [mssola]
+Match if the request is made by one of the informed Browsers. Powered by [user_agent] made by [mssola]
 
 [itinerary]: https://github.com/DiSiqueira/Itinerary
 [user_agent]: https://github.com/mssola/user_agent
@@ -67,6 +67,8 @@ Edge |
 Opera |
 Safari |
 Internet Explorer |
+
+*Probably there is more values, but this should be all the most commons.
 
 ## Contributing
 
